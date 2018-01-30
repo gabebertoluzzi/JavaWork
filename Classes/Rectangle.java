@@ -6,7 +6,7 @@ public class Rectangle {
     // 1st constructor with default length and width
     public Rectangle() {
         this.length = 1.0f;
-        this.length = 1.0f;
+        this.width = 1.0f;
     }
 
     // 2nd constructor with given length and width
